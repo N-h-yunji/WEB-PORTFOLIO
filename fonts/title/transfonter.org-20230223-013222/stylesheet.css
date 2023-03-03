@@ -1,0 +1,32 @@
+@font-face {
+    font-family: 'Helvetica';
+    src: url('Helvetica.eot');
+    src: url('Helvetica.eot?#iefix') format('embedded-opentype'),
+        url('Helvetica.woff') format('woff'),
+        url('Helvetica.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'ROKAF';
+    src: url('ROKAF.eot');
+    src: url('ROKAF.eot?#iefix') format('embedded-opentype'),
+        url('ROKAF.woff') format('woff'),
+        url('ROKAF.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Helvetica95';
+    src: url('Helvetica95-Black.eot');
+    src: url('Helvetica95-Black.eot?#iefix') format('embedded-opentype'),
+        url('Helvetica95-Black.woff') format('woff'),
+        url('Helvetica95-Black.ttf') format('truetype');
+    font-weight: 900;
+    font-style: normal;
+    font-display: swap;
+}

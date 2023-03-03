@@ -1,0 +1,10 @@
+@font-face {
+    font-family: 'Helvetica-ExtraCompressed';
+    src: url('Helvetica-ExtraCompressed.eot');
+    src: url('Helvetica-ExtraCompressed.eot?#iefix') format('embedded-opentype'),
+        url('Helvetica-ExtraCompressed.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
