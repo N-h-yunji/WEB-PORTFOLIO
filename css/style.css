@@ -96,16 +96,19 @@ body {
   letter-spacing: 3px;
 }
 
-.circles {
-  margin-left: 145px;
-  padding-bottom: 5px;
-  text-align: left;
+span{
+  position: relative;
 }
 
-.circles img {
-  margin-right: 9px;
+.circles{
+  position: absolute;
+  top: -30px;
+  left: 4px;
 }
-
+.circles img{
+  display: inline-block;
+  margin-left: 5px;
+}
 .circles2 {
   position: absolute;
   bottom: 100px;
